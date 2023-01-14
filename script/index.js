@@ -13,3 +13,4 @@ if (sum < 21) {
     console.log("Wohoo! You've got Black Jack!")
     isAlive = false
 }
+
